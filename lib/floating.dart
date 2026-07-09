@@ -1,4 +1,4 @@
-import 'package:CodeCatalyst/languages.dart';
+import 'package:codecatalyst/languages.dart';
 import 'package:flutter/material.dart';
 
 class Floating extends StatefulWidget {

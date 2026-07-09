@@ -10,7 +10,7 @@ class Logo extends StatelessWidget {
          Container(
          width: MediaQuery.of(context).size.width,
         child: Image(
-            image: AssetImage('assets/images/CodeCatalyst-high-resolution-logo.png')
+            image: AssetImage('assets/images/codecatalyst-high-resolution-logo.png')
         ),
       ),
     );

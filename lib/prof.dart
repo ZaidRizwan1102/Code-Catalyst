@@ -1,7 +1,7 @@
-import 'package:CodeCatalyst/EditProfil.dart';
-import 'package:CodeCatalyst/about.dart';
-import 'package:CodeCatalyst/editprofile.dart';
-import 'package:CodeCatalyst/feedback.dart';
+import 'package:codecatalyst/EditProfil.dart';
+import 'package:codecatalyst/about.dart';
+import 'package:codecatalyst/editprofile.dart';
+import 'package:codecatalyst/feedback.dart';
 import 'package:flutter/material.dart';
 
 class ProfilePage extends StatelessWidget {
@@ -65,7 +65,7 @@ class ProfilePage extends StatelessWidget {
                           ),
                           SizedBox(height: 10),
                           Text(
-                            'Zaid is name, bachii phasana is my game....',
+                            'Description....',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               color: Colors.grey,

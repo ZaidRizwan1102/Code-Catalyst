@@ -1,5 +1,5 @@
-import 'package:CodeCatalyst/login.dart';
-import 'package:CodeCatalyst/signup.dart';
+import 'package:codecatalyst/login.dart';
+import 'package:codecatalyst/signup.dart';
 import 'package:flutter/material.dart';
 class First extends StatelessWidget {
   const First({super.key});
@@ -15,7 +15,7 @@ class First extends StatelessWidget {
           Container(
             width: 320,
             child: Image(
-                image: AssetImage('assets/images/CodeCatalyst-high-resolution-logo-transparent.png')
+                image: AssetImage('assets/images/codecatalyst-high-resolution-logo-transparent.png')
             ),
           ),
           SizedBox(

@@ -1,6 +1,6 @@
 {
-    "name": "CodeCatalyst",
-    "short_name": "CodeCatalyst",
+    "name": "codecatalyst",
+    "short_name": "codecatalyst",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

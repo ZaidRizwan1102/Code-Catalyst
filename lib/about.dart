@@ -50,7 +50,7 @@ class AboutPage extends StatelessWidget {
 
                 // Introduction
                 Text(
-                  'Welcome to CodeCatalyst, the ultimate platform designed to revolutionize the way you engage with coding challenges and solutions. At CodeCatalyst, we aim to foster a dynamic and collaborative community where developers, from novices to experts, can share knowledge, seek guidance, and enhance their coding skills.',
+                  'Welcome to codecatalyst, the ultimate platform designed to revolutionize the way you engage with coding challenges and solutions. At codecatalyst, we aim to foster a dynamic and collaborative community where developers, from novices to experts, can share knowledge, seek guidance, and enhance their coding skills.',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 16,

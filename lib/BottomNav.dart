@@ -1,5 +1,5 @@
-import 'package:CodeCatalyst/questions.dart';
-import 'package:CodeCatalyst/setting.dart';
+import 'package:codecatalyst/questions.dart';
+import 'package:codecatalyst/setting.dart';
 import 'package:flutter/material.dart';
 import 'prof.dart';
 import 'post.dart';

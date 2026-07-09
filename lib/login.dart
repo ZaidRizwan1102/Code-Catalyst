@@ -1,4 +1,4 @@
-import 'package:CodeCatalyst/signup.dart';
+import 'package:codecatalyst/signup.dart';
 import 'package:flutter/material.dart';
 import 'BottomNav.dart';
 class Login extends StatelessWidget {

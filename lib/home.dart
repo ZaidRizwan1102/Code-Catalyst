@@ -1,5 +1,5 @@
-import 'package:CodeCatalyst/floating.dart';
-import 'package:CodeCatalyst/languages.dart';
+import 'package:codecatalyst/floating.dart';
+import 'package:codecatalyst/languages.dart';
 import 'package:flutter/material.dart';
 class Home extends StatefulWidget {
   Home({super.key});
@@ -129,7 +129,7 @@ class _HomeState extends State<Home> {
                          begin: Alignment.topCenter,
                            end: Alignment.topCenter,
                            colors: [
-                             Color(0xff89f7fe),Color(0xff66a6ff)
+                             Color.fromARGB(255, 54, 20, 223),Color(0xff66a6ff)
                            ]
                        )
                      ),
@@ -157,7 +157,7 @@ class _HomeState extends State<Home> {
                              begin: Alignment.topCenter,
                              end: Alignment.topCenter,
                              colors: [
-                               Color(0xff89f7fe),Color(0xff66a6ff)
+                               Color.fromARGB(255, 54, 20, 223),Color(0xff66a6ff)
                              ]
                          )
                      ),
@@ -183,7 +183,7 @@ class _HomeState extends State<Home> {
                              begin: Alignment.topCenter,
                              end: Alignment.topCenter,
                              colors: [
-                               Color(0xff89f7fe),Color(0xff66a6ff)
+                                Color.fromARGB(255, 54, 20, 223),Color(0xff66a6ff)
                              ]
                          )
                      ),
@@ -210,7 +210,7 @@ class _HomeState extends State<Home> {
                              begin: Alignment.topCenter,
                              end: Alignment.topCenter,
                              colors: [
-                               Color(0xff89f7fe),Color(0xff66a6ff)
+                                Color.fromARGB(255, 54, 20, 223),Color(0xff66a6ff)
                              ]
                          )
                      ),

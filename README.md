@@ -1,4 +1,4 @@
-# CodeCatalyst
+# codecatalyst
 
 A new Flutter project.
 

@@ -1,5 +1,5 @@
-import 'package:CodeCatalyst/login.dart';
-import 'package:CodeCatalyst/splash.dart';
+import 'package:codecatalyst/login.dart';
+import 'package:codecatalyst/splash.dart';
 import 'package:flutter/material.dart';
 import 'first.dart';
 

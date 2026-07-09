@@ -1,9 +1,9 @@
-import 'package:CodeCatalyst/Answer3.dart';
-import 'package:CodeCatalyst/Answer4.dart';
-import 'package:CodeCatalyst/Asnwer5.dart';
-import 'package:CodeCatalyst/ans2.dart';
-import 'package:CodeCatalyst/answer.dart';
-import 'package:CodeCatalyst/faq.dart';
+import 'package:codecatalyst/Answer3.dart';
+import 'package:codecatalyst/Answer4.dart';
+import 'package:codecatalyst/Asnwer5.dart';
+import 'package:codecatalyst/ans2.dart';
+import 'package:codecatalyst/answer.dart';
+import 'package:codecatalyst/faq.dart';
 import 'package:flutter/material.dart';
 
   class Questions extends StatefulWidget {

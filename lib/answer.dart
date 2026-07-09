@@ -37,7 +37,7 @@ bool isAnswerBox = true;
                 begin: Alignment.topCenter,
                 end: Alignment.bottomCenter,
                 colors: [
-                  Color(0xffe7f0fd),Color(0xffaccbee)
+                  Color(0xffe7f0fd),Color.fromARGB(255, 8, 39, 74)
                 ])
         ),
         child: SingleChildScrollView(
