@@ -1,6 +1,6 @@
 # codecatalyst
 
-A new Flutter project.
+My First Flutter Project, which I used to learn flutter basically. So don't judge anything from here
 
 ## Getting Started
 
